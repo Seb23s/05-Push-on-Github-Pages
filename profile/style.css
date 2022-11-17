@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,500,700,900);
 @import url(https://use.fontawesome.com/releases/v6.1.2/css/all.css);
 
-/* Colors and fonts */
 body {
   background-color: rgb(10, 209, 199);
   font-family: 'Lora', serif;
@@ -34,7 +33,6 @@ a:hover {
 }
 
 
-/* Custom design with class (99% of your design) */
 .container {
   width: 700px;
   margin: 40px auto;
@@ -110,7 +108,6 @@ a:hover {
   color: rgb(49, 225, 9);
 }
 
-/* Design adjustments using id (1% design remaining) */
 #introduction p {
   margin-bottom: 40px;
 }
